@@ -24,7 +24,7 @@ public class Ejercicio3 {
         for (int i=0; i<tamaño; i++){
             char letra = lista[i].charAt(0);
             if (letra == caracter) {
-                System.out.println("los arrays que empiezan por" + caracter + "son: " + lista[i]);
+                System.out.println("los arrays que empiezan por " + caracter + " son: " + lista[i]);
             }
         }
         entrada.close();
