@@ -61,6 +61,3 @@ public class Ejercicio9 {
         }
     }
 }
-
-
-//No sé como funciona el indice. 
