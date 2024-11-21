@@ -51,9 +51,9 @@ total debe aparecer en la esquina inferior derecha.
         }
         System.out.print( sumaTotal);
         System.out.println(); 
-        }
     }
-    
+}
+//for (int i=0; i<lista[i].length; i++) Porque no funciona así?
 //aleatorio = Math.random();
 //aleatorio = int (Math.floor(Math.random)()*20 + 5) numeros entre 5 y 25
 //aleatorio = int (Math.floor(Math.random)()*20) numeros hasta 20
